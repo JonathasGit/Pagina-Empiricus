@@ -40,8 +40,10 @@ body{
     text-rendering: optimizeLegibility;
 }
 .imagem{    
-    margin: auto;
+    margin:  0 auto;
     align-items: center;
+    display: block;
+    max-width: 100%;
 
 }
 
