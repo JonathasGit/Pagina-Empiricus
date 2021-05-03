@@ -39,9 +39,9 @@ body{
     box-sizing: border-box;
     text-rendering: optimizeLegibility;
 }
-.imagem{
-    
+.imagem{    
     margin: auto;
+    align-items: center;
 
 }
 
