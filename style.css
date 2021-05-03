@@ -109,5 +109,16 @@ body{
   .form-group{ /* Alterar letras dentro do modal*/
     font-size: 0.75rem;
   }
+  
+
+/* MObile responsivo*/
+  @media only screen  and (min-widht: 768px){ /*O que fazer a ter essa resolução*/
+    .container{text-align: left;}
+
+    .imagem{ max-width: 380px;
+    margin: 0;}
+    .rodape2{width: calc(100% -450px);}
 
 
+    
+  }
