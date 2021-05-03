@@ -15,6 +15,8 @@ body{
 }
 .btn{
     background-color: #B45F04;
+    border-color: #B45F04;
+    
 }
 
 .logoemp{
@@ -63,6 +65,7 @@ body{
     -moz-transition: opacity 400ms ease-in;
     transition: opacity 400ms ease-in;
     pointer-events: none;
+    
   }
   .modalDialog:target {
     opacity: 1;
@@ -78,6 +81,7 @@ body{
     background: -moz-linear-gradient(#fff, #999);
     background: -webkit-linear-gradient(#fff, #999); /* Cor de fundo do Modal */ 
     background: -o-linear-gradient(#fff, #999); /* Cor de fundo do modal*/
+    
   }
   .close {
     background: #606061; /* Cor do botão X*/
@@ -103,4 +107,5 @@ body{
   .form-group{ /* Alterar letras dentro do modal*/
     font-size: 0.75rem;
   }
+  
 
