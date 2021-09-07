@@ -2,4 +2,4 @@
 <h1>Concluido</h1><br>
 Simulação de uma página Empiricus. Usando HTML e CSS. 
 
-Outra pessoa foi aprovada
+Teste de Responsividade, html, css e JavaScript
